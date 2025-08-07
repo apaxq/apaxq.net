@@ -1,0 +1,43 @@
+base_url = "https://apaxq.net"
+title = "apaxq"
+compile_sass = true
+build_search_index = true
+generate_feeds = true
+feed_filenames = ["rss.xml"]
+theme = "apollo"
+taxonomies = [{ name = "tags" }]
+
+[search]
+include_title = true
+include_description = true
+include_path = true
+include_content = true
+index_format = "elasticlunr_json"
+
+[markdown]
+highlight_code = true
+highlight_theme = "css"
+highlight_themes_css = [
+  { theme = "ayu-dark", filename = "syntax-theme-dark.css" },
+  { theme = "ayu-light", filename = "syntax-theme-light.css" },
+]
+
+[extra]
+theme = "toggle"
+dynamic_note = true
+fancy_code = true
+mathjax = true
+mathjax_dollar_inline_enable = true
+repo_url = "https://github.com/apaxq/apaxq.net/tree/main/content/"
+menu = [
+    { name = "/posts", url = "/posts", weight = 1 },
+    { name = "/tags", url = "/tags", weight = 2 },
+]
+
+socials = [
+    { name = "x-twitter", url = "https://twitter.com/apaxqx", icon = "x-twitter" },
+    { name = "github", url = "https://github.com/apaxq/", icon = "github" },
+    { name = "linkedin", url = "https://www.linkedin.com/in/apaxq/", icon = "linkedin" },
+    { name = "email", url = "mailto:apaxq@apaxq.net", icon = "email" },
+    { name = "rss", url = "https://apaxq.net/rss.xml", icon = "rss" },
+]
