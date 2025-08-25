@@ -58,8 +58,8 @@ Things I am working on:
 <a href="https://archive.org/donate">SUPPORT INTERNET ARCHIVE!</a>
 
 Social:        <a href="https://github.com/apaxq">Github</a>, <a href="https://x.com/apaxqq">X</a>, <a href="https://www.linkedin.com/in/apaxq/">LinkedIn</a>, <a href="/posts">Blog</a> (<a href="/rss.xml">RSS</a>)
-Tech:          <a href="https://slashdot.org/">Slashdot</a>, <a href="https://news.ycombinator.com">Hacker News</a>, <a href="https://wiki.installgentoo.com/index.php/Main_Page">InstallGentoo Wiki</a>, <a href="https://boards.4channel.org/g/">/g/</a>
-Entertainment: <a href="">YouTube</a>, <a href="https://twitch.tv/">Twitch</a>, <a href="https://www.siriusxm.com/player/">SiriusXM</a>, <a href="https://stream.directv.com/watchnow/">DirecTV</a>, <a href="https://www.netflix.com/">Netflix</a>,
+Tech:          <a href="https://boards.4chan.org/g/">/g/</a>, <a href="https://news.ycombinator.com">Hacker News</a>, <a href="https://slashdot.org/">Slashdot</a>, <a href="https://igwiki.lyci.de//wiki/Main_Page">InstallGentoo Wiki</a>
+Entertainment: <a href="https://boards.4chan.org/tv/">/tv/</a>, <a href="https://www.youtube.com">YouTube</a>, <a href="https://twitch.tv/">Twitch</a>, <a href="https://www.siriusxm.com/player/home">SiriusXM</a>, <a href="https://stream.directv.com/watchnow/">DirecTV</a>, <a href="https://www.netflix.com/">Netflix</a>,
                <a href="https://www.disneyplus.com/">Disney+</a>, <a href="https://www.hbomax.com/">HBO Max</a>, <a href="https://www.peacocktv.com/">Peacock</a>, <a href="https://www.paramountplus.com/">Paramount+</a>, <a href="https://pluto.tv/">Pluto TV</a>
 Politics:      <a href="https://www.whitehouse.gov/">White House</a>, <a href="https://www.congress.gov/">Congress</a>, <a href="https://www.senate.gov/">Senate</a>, <a href="https://www.house.gov/">House</a>, 
                <a href="https://www.supremecourt.gov">Supreme Court</a>, <a href="https://www.govtrack.us/">GovTrack</a>
