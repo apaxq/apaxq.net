@@ -23,6 +23,7 @@ highlight_themes_css = [
 ]
 
 [extra]
+toc = true
 theme = "toggle"
 dynamic_note = true
 fancy_code = true
