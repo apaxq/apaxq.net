@@ -21,7 +21,15 @@ template = "home.html"
 
 <div class="homepage-hero">
     <h1 class="homepage-hero-title">Austin Parrish (apaxq)</h1>
-    <p class="homepage-hero-subtitle">Jack of all trades, master of development 😎</p>
+    <p class="homepage-hero-subtitle">
+        <i>
+            <script src="quotes.js"></script>
+            <script type="text/javascript">
+                const randomIndex = Math.floor(Math.random() * quotes.length);
+                document.write(quotes[randomIndex] + " 😎");
+            </script>
+        </i>
+    </p>
 </div>
 
 <pre>
