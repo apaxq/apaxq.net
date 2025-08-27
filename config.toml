@@ -42,3 +42,7 @@ socials = [
     { name = "email", url = "mailto:apaxq@apaxq.net", icon = "email" },
     { name = "rss", url = "https://apaxq.net/rss.xml", icon = "rss" },
 ]
+
+stylesheets = [
+  "crt.css"
+]
