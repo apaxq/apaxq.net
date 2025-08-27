@@ -192,3 +192,6 @@ $$
 
 # Twitter
 {{ twitter(username="PMDGang", tweet_id="1842690600786952583") }}
+
+# YouTube
+{{ youtube(video_id="wKOaiWCgB0c") }}
