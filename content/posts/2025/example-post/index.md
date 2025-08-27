@@ -189,3 +189,6 @@ D --> E[Success]
 $$
 p := (\sum_{k∈I}{c_k.v_k} + \delta_v.t(x))·(\sum_{k∈I}{c_k.w_k} + \delta_w.t(x)) − (\sum_{k∈I}{c_k.y_k} + \delta_y.t(x))
 $$
+
+# Twitter
+{{ twitter(username="PMDGang", tweet_id="1842690600786952583") }}
