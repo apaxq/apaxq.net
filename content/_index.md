@@ -32,18 +32,14 @@ template = "home.html"
     </p>
 </div>
 
-<pre>
+{% crt() %}
 $ cat index.html
-***********************************************************************
-
 Austin Parrish
 Owner of <a href="https://apaxq.net/">apaxq.net</a>
 Software Engineer Open for Work!
 Former CS student at <a href="https://www.pdx.edu/computer-science/">Portland State University</a>.
 
 apaxq AT apaxq DOT net
-
-***********************************************************************
 
 Things I am working on:
 - Learning Go (the language)
@@ -77,4 +73,4 @@ Verbatim copying and redistribution of this entire page are permitted
 provided this notice is preserved.
 Optimal Resolution: 72x24 Terminal Screen
 ***********************************************************************
-</pre>
+{% end %}
