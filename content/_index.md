@@ -4,32 +4,32 @@ template = "home.html"
 
 <style>
 .homepage-hero {
-    text-align: center;
-    padding: 2rem 0;
+  text-align: center;
+  padding: 2rem 0;
 }
 
 .homepage-hero-title {
-    font-size: 3rem;
-    margin-bottom: 1rem;
+  font-size: 3rem;
+  margin-bottom: 1rem;
 }
 
 .homepage-hero-subtitle {
-    font-size: 1.25rem;
-    margin-bottom: 1rem;
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
 
 </style>
 
 <div class="homepage-hero">
-    <h1 class="homepage-hero-title">Austin Parrish (apaxq)</h1>
-    <p class="homepage-hero-subtitle">
-        <i>
-            <script src="quotes.js"></script>
-            <script type="text/javascript">
-                const randomIndex = Math.floor(Math.random() * quotes.length);
-                document.write(quotes[randomIndex] + " 😎");
-            </script>
-        </i>
-    </p>
+  <h1 class="homepage-hero-title">Austin Parrish (apaxq)</h1>
+  <p class="homepage-hero-subtitle">
+    <i>
+    <script src="quotes.js"></script>
+    <script type="text/javascript">
+      const randomIndex = Math.floor(Math.random() * quotes.length);
+        document.write(quotes[randomIndex] + " 😎");
+      </script>
+    </i>
+  </p>
 </div>
 
 {% crt() %}
