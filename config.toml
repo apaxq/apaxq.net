@@ -37,7 +37,7 @@ menu = [
 
 socials = [
     { name = "github", url = "https://github.com/apaxq/", icon = "github" },
-    { name = "x-twitter", url = "https://twitter.com/apaxqq", icon = "x-twitter" },
+    { name = "x-twitter", url = "https://twitter.com/apaxqwastaken", icon = "x-twitter" },
     { name = "linkedin", url = "https://www.linkedin.com/in/apaxq/", icon = "linkedin" },
     { name = "email", url = "mailto:apaxq@apaxq.net", icon = "email" },
     { name = "rss", url = "https://apaxq.net/rss.xml", icon = "rss" },
