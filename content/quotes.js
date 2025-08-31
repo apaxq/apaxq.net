@@ -69,4 +69,5 @@ const quotes = [
     "The geese are free, you can just take them home...",
     "sea shanty2",
     "HACK THE PLANET!",
+    "Sargent, dial the Stargate!",
 ];
