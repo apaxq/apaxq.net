@@ -37,7 +37,7 @@ $ cat index.html
 Austin Parrish
 Owner of <a href="https://apaxq.net/">apaxq.net</a>
 Software Engineer Open for Work!
-Former CS student at <a href="https://www.pdx.edu/computer-science/">Portland State University</a>.
+Former Computer Science student at <a href="https://www.pdx.edu/computer-science/">Portland State University</a>.
 
 apaxq AT apaxq DOT net
 
@@ -55,7 +55,7 @@ Things I am working on:
 <a href="https://www.eff.org/">SUPPORT EFF!</a>
 <a href="https://archive.org/donate">SUPPORT INTERNET ARCHIVE!</a>
 
-Social:        <a href="https://github.com/apaxq">Github</a>, <a href="https://x.com/apaxqq">X</a>, <a href="https://www.linkedin.com/in/apaxq/">LinkedIn</a>, <a href="/posts">Blog</a> (<a href="/rss.xml">RSS</a>)
+Social:        <a href="https://github.com/apaxq">Github</a>, <a href="https://x.com/apaxqwastaken">X</a>, <a href="https://www.linkedin.com/in/apaxq/">LinkedIn</a>, <a href="/posts">Blog</a> (<a href="/rss.xml">RSS</a>)
 Tech:          <a href="https://boards.4chan.org/g/">/g/</a>, <a href="https://news.ycombinator.com">Hacker News</a>, <a href="https://slashdot.org/">Slashdot</a>, <a href="https://igwiki.lyci.de//wiki/Main_Page">InstallGentoo Wiki</a>
 Entertainment: <a href="https://boards.4chan.org/tv/">/tv/</a>, <a href="https://www.youtube.com">YouTube</a>, <a href="https://twitch.tv/">Twitch</a>, <a href="https://www.siriusxm.com/player/home">SiriusXM</a>, <a href="https://stream.directv.com/watchnow/">DirecTV</a>, <a href="https://www.netflix.com/">Netflix</a>,
                <a href="https://www.disneyplus.com/">Disney+</a>, <a href="https://www.hbomax.com/">HBO Max</a>, <a href="https://www.peacocktv.com/">Peacock</a>, <a href="https://www.paramountplus.com/">Paramount+</a>, <a href="https://pluto.tv/">Pluto TV</a>
