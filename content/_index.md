@@ -56,17 +56,22 @@ Things I am working on:
 <a href="https://archive.org/donate">SUPPORT INTERNET ARCHIVE!</a>
 
 Social:        <a href="https://github.com/apaxq">Github</a>, <a href="https://x.com/apaxqwastaken">X</a>, <a href="https://www.linkedin.com/in/apaxq/">LinkedIn</a>, <a href="/posts">Blog</a> (<a href="/rss.xml">RSS</a>)
-Tech:          <a href="https://boards.4chan.org/g/">/g/</a>, <a href="https://news.ycombinator.com">Hacker News</a>, <a href="https://slashdot.org/">Slashdot</a>, <a href="https://igwiki.lyci.de//wiki/Main_Page">InstallGentoo Wiki</a>
+Tech:          <a href="https://boards.4chan.org/g/">/g/</a>, <a href="https://news.ycombinator.com">Hacker News</a>, <a href="https://www.phoronix.com">Phoronix</a>, <a href="https://lkml.org">Linux Kernel Mailing List</a>, 
+               <a href="https://www.openbsd.org/mail.html#Lists">OpenBSD Mailing List</a>, <a href="https://undeadly.org/cgi?action=front">OpenBSD Journal</a>
 Entertainment: <a href="https://boards.4chan.org/tv/">/tv/</a>, <a href="https://www.youtube.com">YouTube</a>, <a href="https://twitch.tv/">Twitch</a>, <a href="https://www.siriusxm.com/player/home">SiriusXM</a>, <a href="https://stream.directv.com/watchnow/">DirecTV</a>, <a href="https://www.netflix.com/">Netflix</a>,
                <a href="https://www.disneyplus.com/">Disney+</a>, <a href="https://www.hbomax.com/">HBO Max</a>, <a href="https://www.peacocktv.com/">Peacock</a>, <a href="https://www.paramountplus.com/">Paramount+</a>, <a href="https://pluto.tv/">Pluto TV</a>
-News:          <a href="https://apnews.com/">Associated Press</a>, <a href="https://www.reuters.com/">Reuters</a>, <a href="https://www.bloomberg.com/">Bloomberg</a>
-               <a href="https://boards.4chan.org/news/">/news/</a>, <a href="https://text.npr.org/">NPR</a>, <a href="https://www.bbc.com/news">BBC</a>, <a href="https://www3.nhk.or.jp/nhkworld/en/news/">NHK</a>
-               <a href="https://www.ktnv.com">KTNV (Las Vegas)</a>, <a href="https://knpr.org">KNPR (Las Vegas)</a>
+News:          <a href="https://boards.4chan.org/news/">/news/</a>, <a href="https://brutalist.report">Brutalist Report</a>, <a href="https://www.drudgereport.com">Drudge Report</a>, 
+               <a href="https://apnews.com/">Associated Press</a>, <a href="https://www.reuters.com/">Reuters</a>, <a href="https://www.bloomberg.com/">Bloomberg</a>,
+               <a href="https://www3.nhk.or.jp/nhkworld/en/news/">NHK</a>, <a href="https://www.bbc.com/news">BBC</a>, <a href="https://text.npr.org/">NPR</a>, <a href="https://www.foxnews.com/">Fox News</a>, <a href="https://www.aljazeera.com">Al Jazeera</a>,
+               <a href="https://www.ktnv.com">KTNV (Las Vegas)</a>, <a href="https://knpr.org">KNPR (Las Vegas)</a>,
                <a href="https://www.kgw.com">KGW (Portland)</a>, <a href="https://www.opb.org">KOPB (Portland)</a>
 Weather:       <a href="https://forecast.weather.gov/MapClick.php?lat=36.2312814&lon=-115.283895">Las Vegas</a> (<a href="https://www.weather.gov/vef/">NOAA</a>), <a href="https://forecast.weather.gov/MapClick.php?lat=36.2733&lon=-115.695">Mt. Charleston (Kyle Canyon)</a>
-               <a href="https://forecast.weather.gov/MapClick.php?lat=45.3647601&lon=-122.6483271">West Linn</a>, <a href="https://forecast.weather.gov/MapClick.php?lat=45.512925&lon=-122.685923">Portland</a> (<a href="https://www.weather.gov/pqr/">NOAA</a>), <a href="https://forecast.weather.gov/MapClick.php?lat=45.37334000000004&lon=-121.69572999999997">Mt. Hood</a>
+               <a href="https://forecast.weather.gov/MapClick.php?lat=45.512925&lon=-122.685923">Portland</a> (<a href="https://www.weather.gov/pqr/">NOAA</a>), <a href="https://forecast.weather.gov/MapClick.php?lat=45.3647601&lon=-122.6483271">West Linn</a>, <a href="https://forecast.weather.gov/MapClick.php?lat=45.37334000000004&lon=-121.69572999999997">Mt. Hood</a>
 Travel:        <a href="https://www.nvroads.com">NDOT 511</a>, <a href="http://www.tripcheck.com/Pages/RCMap.asp?curRegion=14&mainNav=RoadConditions">ODOT Trip Check</a>
-Tools:         <a href="https://mxtoolbox.com/">MxToolBox</a>, <a href="https://www.speedguide.net/ports.php">Speed Guide Port Database</a>, <a href="https://archive.is/">archive.is</a>
+References:    <a href="https://www.server-world.info/en/">Server-World</a>, <a href="https://docs.vultr.com">Vultr Docs</a>, <a href="https://docs.redhat.com/en">Red Hat Docs</a>, 
+               <a href="https://docs.rockylinux.org">Rocky Linux Docs</a>, <a href="https://wiki.gentoo.org/wiki/Main_Page">Gentoo Wiki</a>, <a href="https://wiki.archlinux.org/title/Main_page">Arch Linux Wiki</a>, 
+               <a href="https://www.openbsdhandbook.com">OpenBSD Handbook</a>, <a href="https://igwiki.lyci.de//wiki/Main_Page">InstallGentoo Wiki</a>, <a href="https://mxtoolbox.com/">MxToolBox</a>, 
+               <a href="https://www.speedguide.net/ports.php">Speed Guide Port Database</a>, <a href="https://archive.is/">archive.is</a>
 
 Copyright(C) 2025 Austin Parrish
 Verbatim copying and redistribution of this entire page are permitted 
