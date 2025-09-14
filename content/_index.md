@@ -54,6 +54,9 @@ Things I am working on:
 
 <a href="https://www.eff.org/">SUPPORT EFF!</a>
 <a href="https://archive.org/donate">SUPPORT INTERNET ARCHIVE!</a>
+<a href="https://osuosl.org/donate/">SUPPORT OSU OPEN SOURCE LAB!</a>
+<a href="https://www.defectivebydesign.org/">SAY NO TO DRM!</a>
+<a href="https://www.youtube.com/watch?v=82IGVF8GhsY">SAVE OVER THE AIR TV! END DRM ENCRYPTION OF ATSC 3.0 BROADCASTS!</a>
 
 Social:        <a href="https://github.com/apaxq">Github</a>, <a href="https://x.com/apaxqwastaken">X</a>, <a href="https://www.linkedin.com/in/apaxq/">LinkedIn</a>, <a href="/posts">Blog</a> (<a href="/rss.xml">RSS</a>)
 Tech:          <a href="https://boards.4chan.org/g/">/g/</a>, <a href="https://news.ycombinator.com">Hacker News</a>, <a href="https://www.phoronix.com">Phoronix</a>, <a href="https://lkml.org">Linux Kernel Mailing List</a>, 
