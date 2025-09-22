@@ -15,6 +15,7 @@ include_content = true
 index_format = "elasticlunr_json"
 
 [markdown]
+bottom_footnotes = true
 highlight_code = true
 highlight_theme = "css"
 highlight_themes_css = [
@@ -44,5 +45,6 @@ socials = [
 ]
 
 stylesheets = [
-  "crt.css"
+  "crt.css",
+  "footnotes.css",
 ]
