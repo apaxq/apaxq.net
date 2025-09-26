@@ -54,7 +54,7 @@ Things I am working on:
 
 <a href="https://www.eff.org/">SUPPORT EFF!</a>
 <a href="https://archive.org/donate">SUPPORT INTERNET ARCHIVE!</a>
-<a href="https://osuosl.org/donate/">SUPPORT OSU OPEN SOURCE LAB!</a>
+<a href="https://osuosl.org/blog/osl-future/">SUPPORT OSU OPEN SOURCE LAB!</a>
 <a href="https://www.defectivebydesign.org/">SAY NO TO DRM!</a>
 <a href="https://www.youtube.com/watch?v=82IGVF8GhsY">SAVE OVER THE AIR TV! END DRM ENCRYPTION OF ATSC 3.0 BROADCASTS!</a>
 
