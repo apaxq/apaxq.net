@@ -35,7 +35,7 @@ const quotes = [
   "C++ with Bob Ross",
   '<a href="https://en.wikipedia.org/wiki/Test-driven_development">You know I&apos;m down with TDD</a>',
   "The worlds greatest artist are on RCA Victor Records",
-  '<a href="https://www.youtube.com/watch?v=ccMYgiSC_eQ">All the nightmares came today, And it looks as though they&apos;re here to stay',
+  '<a href="https://www.youtube.com/watch?v=ccMYgiSC_eQ">All the nightmares came today, And it looks as though they&apos;re here to stay</a>',
   '<a href="https://www.youtube.com/watch?v=rtL5oMyBHPs">If you get out of bed, And find me standing all alone, Open-eyed, Burn the page, My little dark age</a>',
   '<a href="https://www.youtube.com/watch?v=tmozGmGoJuw">Don&apos;t you have somewhere to be at seven thirty?</a>',
   "I personally wouldn't use Ruby to pilot a spacecraft",
